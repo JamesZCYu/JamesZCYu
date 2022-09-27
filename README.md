@@ -6,7 +6,6 @@ I am a new graduate from Carleton University's Bachelor of Computer Science prog
 
 - [JamesZCYu/Unlocked-Phone-Store](https://github.com/JamesZCYu/Unlocked-Phone-Store) - E-commerce REACT app with PayPal and Stripe 
 - [JamesZCYu/League-of-Legends-Discord-Patch-Bot](https://github.com/JamesZCYu/League-of-Legends-Discord-Patch-Bot) - League of Legends patch notes Discord bot
-- 
 
 ### 🌱 My latest projects
 
@@ -17,7 +16,7 @@ I am a new graduate from Carleton University's Bachelor of Computer Science prog
 
 ### 📫 How to reach me:
 
-- LinkedIn: [linkedin.com](https://www.linkedin.com/in/jameszcyu/)
+- LinkedIn: [linkedin.com/in/jameszcyu/](https://www.linkedin.com/in/jameszcyu/)
 - Email: [james.zc.yu@gmail.com](mailto:james.zc.yu@gmail.com)
 
 ### ⚡ Fun fact:
