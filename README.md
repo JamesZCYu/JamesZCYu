@@ -1,6 +1,6 @@
 ### James Yu
 
-I am a new graduate from Carleton University's Bachelor of Computer Science program and I also love learning, currently interested in logistics. 
+I am a new graduate from Carleton University's Bachelor of Computer Science program who love learning, currently interested in supply chain logistics. Currently looking for new opportunities.
 
 ### 👷 Check out what I'm currently working on
 
