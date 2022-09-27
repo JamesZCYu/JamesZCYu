@@ -11,7 +11,7 @@ I am a new graduate from Carleton University's Bachelor of Computer Science prog
 
 - [JamesZCYu/Unlocked-Phone-Store](https://github.com/JamesZCYu/Unlocked-Phone-Store) - E-commerce REACT app with PayPal and Stripe 
 - [JamesZCYu/OASIS-Pro-Device](https://github.com/JamesZCYu/OASIS-Pro-Device) - App for the OASIS Pro Cranio-Electro Stimulation device
-- [Haar-Cascade-Object-Detection](https://github.com/JamesZCYu/Haar-Cascade-Object-Detection) - Trained a custom Haar feature-based cascade for recognizing cat and dog facial features
+- [JamesZCYu/Haar-Cascade-Object-Detection](https://github.com/JamesZCYu/Haar-Cascade-Object-Detection) - Trained a custom Haar feature-based cascade for recognizing cat and dog facial features
 - [JamesZCYu/League-of-Legends-Discord-Patch-Bot](https://github.com/JamesZCYu/League-of-Legends-Discord-Patch-Bot) - League of Legends patch notes Discord bot
 
 ### 📫 How to reach me:
